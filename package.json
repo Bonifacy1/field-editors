@@ -1,5 +1,5 @@
 {
-  "name": "@contentful/field-editors",
+  "name": "@bonifacy1/field-editors",
   "private": true,
   "version": "1.0.0",
   "description": "React components and apps for building Contentful entry editor",
@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/contentful/field-editors"
+    "url": "https://github.com/bonifacy1/field-editors"
   },
   "scripts": {
     "bootstrap": "lerna bootstrap",
